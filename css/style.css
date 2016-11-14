@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 html, body {
   overflow: hidden;
+  background-color: black;
 }
 h1 {
   font-family: 'Oswald', sans-serif;
@@ -162,6 +163,9 @@ header{
 }
 .content-subtitle{
   height: 2000px;
+  line-height: 1.3;
+  font-size: 20px;
+}
 }
 
 .background.up-scroll {
